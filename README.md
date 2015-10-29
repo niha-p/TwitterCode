@@ -9,6 +9,7 @@ Heat Map to display tweet streams from all over the over.
 
 4) Current trends are also displayed.
 
+
 Project was developed in Java. Uses JSP.
 
 Database was hosted on Heruko - via MongoLab service. 
